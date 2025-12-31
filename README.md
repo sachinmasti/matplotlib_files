@@ -288,7 +288,7 @@ Contributions are welcome! Here's how you can help:
 **Sachin**
 
 - 📧 Email: [sachinmasti88@gmail.com](mailto:sachinmasti88@gmail.com)
-- 🔗 GitHub: [@Yo845](https://github.com/Yo845)
+- 🔗 GitHub: [@Yo845](https://github.com/sachinmasti)
 - 💼 LinkedIn: [Connect with me](https://www.linkedin.com/in/sachin-masti-23a275228/)
 
 ---
